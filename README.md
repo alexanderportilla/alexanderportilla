@@ -1,4 +1,12 @@
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+<h1 align="center">Yovanni Alexander Portilla</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 # 💫 About Me:
 About Me:<br>🚀 I'm currently working on:<br><br>- Proyecto personal de ecommerce: Tienda Mega Store <br>- Proyecto Book Store (en proceso)<br>- Mejorando mis habilidades en desarrollo web full-stack<br><br>👥 I'm looking to collaborate on:<br>- Proyectos de desarrollo de software para ganar experiencia<br>- Aplicaciones web o móviles como desarrollador junior<br>- Iniciativas de código abierto para ampliar mi red profesional<br><br>💡 I'm looking for help with:<br>- Buenas prácticas en desarrollo de software<br>- Introducción a metodologías ágiles en entornos profesionales<br>- Consejos para optimizar bases de datos en proyectos reales<br><br>🌱 I'm currently learning:<br>- Frameworks modernos de desarrollo web (React, Vue.js)<br>- Principios básicos de DevOps y CI/CD<br>- Fundamentos de desarrollo ágil<br><br><br>💬 Ask me about:<br>- Mi experiencia como practicante en desarrollo de software (6 meses)<br>- Proyectos académicos y personales en los que he trabajado<br>- Mi entusiasmo por aprender y crecer en el campo del desarrollo<br><br>⚡ Fun facts:<br>- Soy tecnólogo  graduado en Análisis y Desarrollo de Software<br>- Me apasiona crear soluciones innovadoras para problemas cotidianos
 

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  📍 Guaitarilla, Nariño, Colombia<br>
+  📍 Colombia<br>
   📧 portillaalexander2022@gmail.com<br>
   📱 (316) 208-7952
 </p>

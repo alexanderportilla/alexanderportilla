@@ -22,7 +22,7 @@
 
 ## 🎯 Resumen Profesional
 
-Tecnólogo en Análisis y Desarrollo de Software con **2+ años de experiencia práctica** en ISA InterColombia, especializado en desarrollo full-stack y análisis de datos. He optimizado procesos empresariales mediante **Power BI**, desarrollado APIs REST con **Python/FastAPI**, y creado aplicaciones web modernas con **React**. 
+Tecnólogo en Análisis y Desarrollo de Software con **1+ años de experiencia práctica** en ISA InterColombia, especializado en desarrollo full-stack y análisis de datos. He optimizado procesos empresariales mediante **Power BI**, desarrollado APIs REST con **Python/FastAPI**, y creado aplicaciones web modernas con **React**. 
 
 **Impacto demostrable:** Automatización de reportes que mejoró la agilidad del equipo en 30% y desarrollo de dashboards críticos para toma de decisiones empresariales.
 
